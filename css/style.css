@@ -1,0 +1,50 @@
+body
+
+h1 {
+	text-align: center;
+	color: green;
+	background-color: yellow;
+}
+
+
+p {
+   font: 14px/1.5 "Times New Roman", times, serif;
+   padding: 20px 10px;
+   border: 5px black solid;
+   border-width: 5px 5px 5px 5px;
+   border-color: red green blue yellow;
+   border-style: groove;
+   margin: 10px 50px;
+}
+
+
+strong {
+		text-transform: capitalize;
+}
+
+
+a {
+   color: blue;
+   text-decoration: none;
+}
+
+
+td {
+    border: 1px solid #999;
+    padding: 0.1em 1em;
+}
+
+
+select {
+		color: blue;
+}
+
+
+figure {
+		text-align: left;
+		font: 16px Tacoma, serif;
+		border: 20px black solid;
+		border-color: red;
+		border-style: groove;
+		padding: 4px;
+}
